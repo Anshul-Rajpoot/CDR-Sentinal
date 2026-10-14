@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+artifacts/model.joblib
+artifacts/metadata.json
+artifacts/district_match_audit.csv
